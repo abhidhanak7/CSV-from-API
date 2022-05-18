@@ -1,0 +1,18 @@
+{
+  "name": "storing-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-csv": "^0.1.2",
+    "node-fetch": "^2.6.7",
+    "objects-to-csv": "^1.3.6",
+    "request": "^2.88.0"
+  }
+}

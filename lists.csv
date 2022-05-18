@@ -1,0 +1,4 @@
+name,description,watchers_count,html_url,stargazers_count,forks_count
+cramp,Real-time web application framework in Ruby,1515,https://github.com/lifo/cramp,1515,131
+connect-assets,A Rails-style asset pipeline for Node.js,932,https://github.com/js-kyle/connect-assets,932,177
+3ree,"An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. A stack for building apps, front and back end, with just Javascript.",857,https://github.com/GordyD/3ree,857,105
